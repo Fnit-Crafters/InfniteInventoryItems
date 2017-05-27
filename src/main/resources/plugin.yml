@@ -1,0 +1,3 @@
+name: InfniteInventoryItems
+version: @version@
+main: fnitcrafters.infniteinventoryitems.InfniteInventoryItems
